@@ -2,8 +2,8 @@
   "manifestVersion": 1,
   "id": "plugin_template",
   "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
+  "author": "lovedebug",
+  "repoUrl": "https://github.com/CryptoIO/rn-dic.git",
   "version": {
     "major": 0,
     "minor": 0,
